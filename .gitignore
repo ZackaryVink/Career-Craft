@@ -1,0 +1,17 @@
+build/
+.classpath
+.project
+/*.launch
+.gradle/
+eclipse/
+bin/
+repo/
+/run/
+.settings/
+#IDEA files from Gradle
+.idea/
+/*.iml
+/*.ipr
+/*.iws
+#macOS
+.DS_Store
