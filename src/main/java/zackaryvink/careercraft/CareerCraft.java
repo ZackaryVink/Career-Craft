@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 @Mod(modid = CareerCraft.MODID, version = CareerCraft.VERSION)
 public class CareerCraft
 {
-    public static final String MODID = "examplemod";
+    public static final String MODID = "careercraft";
     public static final String VERSION = "1.0";
     
     @EventHandler
